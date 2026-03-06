@@ -1,4 +1,4 @@
-package com.gestioncitas.backend;
+package com.gestioncitas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
